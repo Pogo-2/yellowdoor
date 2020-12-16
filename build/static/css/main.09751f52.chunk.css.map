@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/componets/App.css"],"names":[],"mappings":"AAAA,MACI,mCAAuC,CACvC,eAAgB,CAChB,iBACJ","file":"main.09751f52.chunk.css","sourcesContent":[".test{\n    background-color:rgba(255, 0, 0, 0.198);\n    margin-top: 60px;\n    border-radius: 5px;\n}"]}
