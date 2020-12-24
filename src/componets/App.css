@@ -14,3 +14,11 @@
 header{
     padding-left: 30px;
 }
+
+.links{
+    color: white;
+}
+
+.link:hover {
+    color: gray;
+ }
