@@ -1,7 +1,11 @@
 
 function Home(){
     return(
-    <h1>Test</h1>
+        <div>
+            <h1 className="title">YELLOW DOOR</h1>
+
+            <h3>content</h3>
+        </div>
     );
 }
 

@@ -1,5 +1,12 @@
 .test{
     background-color:rgba(255, 0, 0, 0.198);
-    margin-top: 60px;
+    margin-top: 55px;
     border-radius: 5px;
+    padding: 5px;
+}
+
+.title{
+    font-size: 50px;
+    font-family: Arial;
+    align-self: center;
 }
