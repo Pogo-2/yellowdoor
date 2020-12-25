@@ -3,7 +3,6 @@ import Tab from '@material-ui/core/Tab'
 import AppBar from '@material-ui/core/AppBar'
 import Home from "./home/Home"
 import Gallery from "./gallery/Gallery"
-import Test from "./Test";
 import AboutUs from "./about_us/AboutUs"
 import "./App.css"
 import { Link, BrowserRouter as Router, Route } from 'react-router-dom'
@@ -24,7 +23,6 @@ function NavBar() {
             <Route exact path="/" component={Home}/>
             <Route path="/gallery" component={Gallery}/>
             <Route path="/about" component={AboutUs}/>
-            <Route path="/test" component={Test} />
           </div>
 
         </Router>
